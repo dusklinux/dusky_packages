@@ -1,0 +1,4 @@
+*.pkg.tar.zst binary
+*.tar.zst binary
+x86_64/dusky.db binary
+x86_64/dusky.files binary
