@@ -2,7 +2,7 @@
   "schema_version": 1,
   "repo": "dusky",
   "arch": "x86_64",
-  "generated_at": "2026-11-16T10:19:17Z",
+  "generated_at": "2026-11-16T10:26:42Z",
   "packages": {
     "dusky_center": {
       "pkgname": "dusky_center",
@@ -10,11 +10,11 @@
       "pkgdesc": "Dusky Center control center for Hyprland",
       "arch": "x86_64",
       "filename": "x86_64/dusky_center-1.0.0-1-x86_64.pkg.tar.zst",
-      "sha256": "832144cce594bb6cce72e010030a5e071d4177d811fd1dfbe4507c164f31f760",
-      "size_bytes": 4397585,
+      "sha256": "33325c8d419adf40fa02a0c9103d7bd78b0dffc5617835bfbcb67ef40f50d0b1",
+      "size_bytes": 4397179,
       "installed_size": 14588060,
       "build_date": 1794734360,
-      "source_sha256": "2e508431af6c198507212ccbb53bf08f425e3e4fe3c85430b9f43c1f7a65c22b"
+      "source_sha256": "28fcdb56e04e433170228e8d2e6e43d9676c60f1af473e552ab5961187d5411c"
     },
     "dusky_network": {
       "pkgname": "dusky_network",
@@ -22,9 +22,9 @@
       "pkgdesc": "Dusky shared network meter for Waybar and Dusky Glance",
       "arch": "x86_64",
       "filename": "x86_64/dusky_network-1.0.0-3-x86_64.pkg.tar.zst",
-      "sha256": "f8a0e9eed72307a1111aa5657984736006531e001ebff7cbb687557cc847a606",
-      "size_bytes": 193788,
-      "installed_size": 400687,
+      "sha256": "beb0d5cdda944195cc201d536e8cda07c177411fc253bc4cc97b9c56970a47b5",
+      "size_bytes": 193817,
+      "installed_size": 400752,
       "build_date": 1794734408,
       "source_sha256": "dfd5d9123ccd7ddee0ccf938ad502ca41b0ac9b71e1c3ae267b61981041b6739"
     },
@@ -34,11 +34,11 @@
       "pkgdesc": "Dusky Overview workspace switcher for Hyprland",
       "arch": "x86_64",
       "filename": "x86_64/dusky_overview-0.1.0-1-x86_64.pkg.tar.zst",
-      "sha256": "fdc76fb3f5906f8cea07df0043873a6776d27d88a813b0c4e8dd11ffa7610972",
-      "size_bytes": 4661650,
+      "sha256": "23db5fb9b8589547f818cc0b5c61bf8d6ec5036095a905bc5960e13ff52adb1e",
+      "size_bytes": 4661603,
       "installed_size": 15835953,
       "build_date": 1794734415,
-      "source_sha256": "ad0f093a6bc50dce55c6405a1315e92ec5580c4ddad9bfcb04c084cf5031e6da"
+      "source_sha256": "28c013a65c3b7d2757c88e591f8e233acbe0f67501f5086dfc5d6a0977989228"
     },
     "dusky_papers": {
       "pkgname": "dusky_papers",
@@ -46,11 +46,11 @@
       "pkgdesc": "Dusky Papers wallpaper browser for Hyprland",
       "arch": "x86_64",
       "filename": "x86_64/dusky_papers-1.1.0-2-x86_64.pkg.tar.zst",
-      "sha256": "6466fc0d547f019a45c49dddfbc4ee2677c730ece5732f7a87d23bde95d17a6c",
-      "size_bytes": 3632713,
+      "sha256": "6e1670100ada48b5f7898c986408b2c91700fc7061d8a1f807918ead88f1370c",
+      "size_bytes": 3632399,
       "installed_size": 12296089,
       "build_date": 1794734480,
-      "source_sha256": "42cd1ad708099af48d44988d4ff31966e29a65e5168d76bd68014b7af013b84b"
+      "source_sha256": "45ea69a6d2388ba6bbd7184a5ee7972b6643f27228507607bf92c286e4dfa84b"
     },
     "dusky_snap": {
       "pkgname": "dusky_snap",
@@ -58,11 +58,11 @@
       "pkgdesc": "Dusky Snap Wayland screenshot and annotation tool",
       "arch": "x86_64",
       "filename": "x86_64/dusky_snap-0.4.1-3-x86_64.pkg.tar.zst",
-      "sha256": "07b1b582125f52824575445b4a8d698287f09738387e2fb9eaff04f7f29654e4",
-      "size_bytes": 4713356,
+      "sha256": "6778a4212f1758963c361911d27f904a65721df33e9c2f3b679de84836094d30",
+      "size_bytes": 4713261,
       "installed_size": 15907402,
       "build_date": 1794734530,
-      "source_sha256": "6ce9238f36f9ad1e07d212545e5bed629c8c811b2d27067b8fc84f5a3b8ddd3c"
+      "source_sha256": "2760f3d683851b8f6f3c0c76401aefb2c28047a7f60b12e1e4e720ca5da744a1"
     },
     "dusky_tray": {
       "pkgname": "dusky_tray",
@@ -70,11 +70,11 @@
       "pkgdesc": "Dusky Tray control center for Hyprland",
       "arch": "x86_64",
       "filename": "x86_64/dusky_tray-1.0.0-7-x86_64.pkg.tar.zst",
-      "sha256": "9abc90311ef62240da2cf67f61b292369f970427ee89bda36a8049da957aa3c5",
-      "size_bytes": 4229429,
+      "sha256": "68259540e4141701250d8cb133b105d038a6004104736715fe396e3473dbbe24",
+      "size_bytes": 4228839,
       "installed_size": 13859769,
       "build_date": 1794734582,
-      "source_sha256": "a81051cd7c5e869724d32627cdd548d22218ac560ebe31c94b28a4a4c7e0354b"
+      "source_sha256": "d67be3a3dec4fd4bc2507ea1a50565d193b2d98b4dbaa2d7ffa5016283861d77"
     }
   }
 }
