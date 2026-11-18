@@ -2,7 +2,7 @@
   "schema_version": 1,
   "repo": "dusky",
   "arch": "x86_64",
-  "generated_at": "2026-11-16T15:06:07Z",
+  "generated_at": "2026-11-18T10:28:04Z",
   "packages": {
     "dusky_center": {
       "pkgname": "dusky_center",
@@ -66,15 +66,15 @@
     },
     "dusky_tray": {
       "pkgname": "dusky_tray",
-      "pkgver": "1.0.0-7",
+      "pkgver": "1.0.0-8",
       "pkgdesc": "Dusky Tray control center for Hyprland",
       "arch": "x86_64",
-      "filename": "x86_64/dusky_tray-1.0.0-7-x86_64.pkg.tar.zst",
-      "sha256": "abaabc09005a6d954d0d29be11f5a51901867d6097797198885b262a0d60cf2f",
-      "size_bytes": 5348119,
-      "installed_size": 13859897,
-      "build_date": 1794841034,
-      "source_sha256": "d67be3a3dec4fd4bc2507ea1a50565d193b2d98b4dbaa2d7ffa5016283861d77"
+      "filename": "x86_64/dusky_tray-1.0.0-8-x86_64.pkg.tar.zst",
+      "sha256": "9856e63fb48b9f489339f14836c5218a2d7b105ab35b8cc8ebc9276b7ef734e1",
+      "size_bytes": 4253685,
+      "installed_size": 13914329,
+      "build_date": 1794997605,
+      "source_sha256": "8d10df55ac2e69607c94b1105c6448463f5eaabef8af2bca99ad9ddf35355668"
     }
   }
 }
