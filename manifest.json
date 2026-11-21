@@ -2,7 +2,7 @@
   "schema_version": 1,
   "repo": "dusky",
   "arch": "x86_64",
-  "generated_at": "2026-11-21T06:34:00Z",
+  "generated_at": "2026-11-21T06:54:28Z",
   "packages": {
     "dusky_center": {
       "pkgname": "dusky_center",
@@ -54,15 +54,15 @@
     },
     "dusky_snap": {
       "pkgname": "dusky_snap",
-      "pkgver": "0.4.2-3",
+      "pkgver": "0.4.2-4",
       "pkgdesc": "Dusky Snap Wayland screenshot and annotation tool",
       "arch": "x86_64",
-      "filename": "x86_64/dusky_snap-0.4.2-3-x86_64.pkg.tar.zst",
-      "sha256": "eed9284ebcd817b670e788fdaed6091bc6987da13bd19d93cd7411fbbb344b3e",
-      "size_bytes": 5974676,
-      "installed_size": 15916882,
-      "build_date": 1795242731,
-      "source_sha256": "328318cb394324d6f3b568f9983a89b3a63881f37bacec3fca4e142225a42b4e"
+      "filename": "x86_64/dusky_snap-0.4.2-4-x86_64.pkg.tar.zst",
+      "sha256": "f0035d4f5cd58f634bef9343e8120d02f0c578eae4fa53d7971658499ba31208",
+      "size_bytes": 4715602,
+      "installed_size": 15914290,
+      "build_date": 1795243955,
+      "source_sha256": "b8ae04c6acb77cf628e9689ba8e2bb75794f78b64d0c129ed4bb7c870c52c611"
     },
     "dusky_tray": {
       "pkgname": "dusky_tray",
