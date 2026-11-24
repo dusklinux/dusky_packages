@@ -2,7 +2,7 @@
   "schema_version": 1,
   "repo": "dusky",
   "arch": "x86_64",
-  "generated_at": "2026-11-21T08:24:43Z",
+  "generated_at": "2026-11-24T11:51:14Z",
   "packages": {
     "dusky_center": {
       "pkgname": "dusky_center",
@@ -10,11 +10,11 @@
       "pkgdesc": "Dusky Center control center for Hyprland",
       "arch": "x86_64",
       "filename": "x86_64/dusky_center-1.0.0-1-x86_64.pkg.tar.zst",
-      "sha256": "303e4fd33fee04c9408b7fadd6ed3e025ab65c2dcac4238d76cbabd601e66b63",
-      "size_bytes": 5558614,
-      "installed_size": 14588108,
-      "build_date": 1794840739,
-      "source_sha256": "28fcdb56e04e433170228e8d2e6e43d9676c60f1af473e552ab5961187d5411c"
+      "sha256": "203c37f776125b3adbe220f7d63ff614f506b1387d8d98ef8e1af1d2caaf87b3",
+      "size_bytes": 5560928,
+      "installed_size": 14588411,
+      "build_date": 1795520876,
+      "source_sha256": "0bc5ea0100515b182f11cdd7e8185abe1f7169d444a4daee163b68d0f60e3edc"
     },
     "dusky_network": {
       "pkgname": "dusky_network",
@@ -58,10 +58,10 @@
       "pkgdesc": "Dusky Snap Wayland screenshot and annotation tool",
       "arch": "x86_64",
       "filename": "x86_64/dusky_snap-0.4.2-7-x86_64.pkg.tar.zst",
-      "sha256": "64f1cf1063b454d7fdc2f681c1b48b3875b9fa1623af6b962e0a2b50d51b5d6f",
-      "size_bytes": 4723250,
-      "installed_size": 15920986,
-      "build_date": 1795249418,
+      "sha256": "13b16f7f339f541b610df79b6a6d4af45de877c628af7719cd3a73aef345b067",
+      "size_bytes": 5968481,
+      "installed_size": 15918658,
+      "build_date": 1795268773,
       "source_sha256": "34928e7800c530e48a791b39ce851676a7bb55b7b73cf42f125751bbacb13d67"
     },
     "dusky_tray": {
@@ -70,11 +70,11 @@
       "pkgdesc": "Dusky Tray control center for Hyprland",
       "arch": "x86_64",
       "filename": "x86_64/dusky_tray-1.0.0-8-x86_64.pkg.tar.zst",
-      "sha256": "1f9cd85aa02f0bdfc34ff63735642f5dab42b92afde4e1ed8c74e57a40e849ff",
-      "size_bytes": 5372933,
-      "installed_size": 13914969,
-      "build_date": 1794999403,
-      "source_sha256": "8d10df55ac2e69607c94b1105c6448463f5eaabef8af2bca99ad9ddf35355668"
+      "sha256": "2bb061df8b9531673114ec9d3767ea19ad2afb0e42cbb78c1d17e6478ddfcbcd",
+      "size_bytes": 5382994,
+      "installed_size": 13936393,
+      "build_date": 1795520705,
+      "source_sha256": "44eadebbc6ae8d1127cb67e017035ef5a4e50ee54b135c0434031cfff00ebca0"
     }
   }
 }
