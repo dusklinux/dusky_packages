@@ -2,8 +2,20 @@
   "schema_version": 1,
   "repo": "dusky",
   "arch": "x86_64",
-  "generated_at": "2026-11-24T11:51:14Z",
+  "generated_at": "2026-11-25T07:14:02Z",
   "packages": {
+    "dusky_casts": {
+      "pkgname": "dusky_casts",
+      "pkgver": "0.3.0-1",
+      "pkgdesc": "Dusky Casts Wayland podcast and local audio player",
+      "arch": "x86_64",
+      "filename": "x86_64/dusky_casts-0.3.0-1-x86_64.pkg.tar.zst",
+      "sha256": "9cd8d6cd6c69738721de7c60c4f8bb4075516abdee18e25e186f72e3b1f96686",
+      "size_bytes": 9420712,
+      "installed_size": 23631063,
+      "build_date": 1795590705,
+      "source_sha256": "5158ace169e60565754c7afff3811e5e8ad5278fa5faa9c1b556f4c5c85cd802"
+    },
     "dusky_center": {
       "pkgname": "dusky_center",
       "pkgver": "1.0.0-1",
