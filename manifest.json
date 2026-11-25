@@ -2,7 +2,7 @@
   "schema_version": 1,
   "repo": "dusky",
   "arch": "x86_64",
-  "generated_at": "2026-11-25T07:14:02Z",
+  "generated_at": "2026-11-25T16:39:06Z",
   "packages": {
     "dusky_casts": {
       "pkgname": "dusky_casts",
@@ -10,10 +10,10 @@
       "pkgdesc": "Dusky Casts Wayland podcast and local audio player",
       "arch": "x86_64",
       "filename": "x86_64/dusky_casts-0.3.0-1-x86_64.pkg.tar.zst",
-      "sha256": "9cd8d6cd6c69738721de7c60c4f8bb4075516abdee18e25e186f72e3b1f96686",
-      "size_bytes": 9420712,
+      "sha256": "fe232d982e597e47ff2b68ee70394697fd9963d370c2027b29d9377356a0e95c",
+      "size_bytes": 9420729,
       "installed_size": 23631063,
-      "build_date": 1795590705,
+      "build_date": 1795623601,
       "source_sha256": "5158ace169e60565754c7afff3811e5e8ad5278fa5faa9c1b556f4c5c85cd802"
     },
     "dusky_center": {
@@ -22,11 +22,11 @@
       "pkgdesc": "Dusky Center control center for Hyprland",
       "arch": "x86_64",
       "filename": "x86_64/dusky_center-1.0.0-1-x86_64.pkg.tar.zst",
-      "sha256": "203c37f776125b3adbe220f7d63ff614f506b1387d8d98ef8e1af1d2caaf87b3",
-      "size_bytes": 5560928,
-      "installed_size": 14588411,
-      "build_date": 1795520876,
-      "source_sha256": "0bc5ea0100515b182f11cdd7e8185abe1f7169d444a4daee163b68d0f60e3edc"
+      "sha256": "f152a9c6cd7a82462736808259313de7bcef39723468293c8811d7d2d5f7cbbb",
+      "size_bytes": 5542265,
+      "installed_size": 14519955,
+      "build_date": 1795623699,
+      "source_sha256": "7517608aaf916cb01493fdd7c972cfa9924f324d325c6ec52d47fa49034de4ff"
     },
     "dusky_network": {
       "pkgname": "dusky_network",
@@ -34,10 +34,10 @@
       "pkgdesc": "Dusky shared network meter for Waybar and Dusky Glance",
       "arch": "x86_64",
       "filename": "x86_64/dusky_network-1.0.0-3-x86_64.pkg.tar.zst",
-      "sha256": "14ae3ff9870514aca8ea0ae11dcc8670333d1a95cc3d106cd32ecf013329dbbb",
-      "size_bytes": 224327,
+      "sha256": "6faeaf4fd5ad3b43364d5665166a9bcc51b2138e43b82e18c53ba58db204cbc1",
+      "size_bytes": 224505,
       "installed_size": 400752,
-      "build_date": 1794840802,
+      "build_date": 1795623755,
       "source_sha256": "dfd5d9123ccd7ddee0ccf938ad502ca41b0ac9b71e1c3ae267b61981041b6739"
     },
     "dusky_overview": {
@@ -46,10 +46,10 @@
       "pkgdesc": "Dusky Overview workspace switcher for Hyprland",
       "arch": "x86_64",
       "filename": "x86_64/dusky_overview-0.1.0-1-x86_64.pkg.tar.zst",
-      "sha256": "499e6ec76f05d97e93d28f19a5cd8389f2626cc8b3753702ebccf77628343fb0",
-      "size_bytes": 5962632,
-      "installed_size": 15836321,
-      "build_date": 1794840809,
+      "sha256": "ff0bc466f32fe8add982bf859145d8620ed8a972ab8696d0b2b406dd9fea3a4e",
+      "size_bytes": 5963979,
+      "installed_size": 15836417,
+      "build_date": 1795623765,
       "source_sha256": "28c013a65c3b7d2757c88e591f8e233acbe0f67501f5086dfc5d6a0977989228"
     },
     "dusky_papers": {
@@ -58,10 +58,10 @@
       "pkgdesc": "Dusky Papers wallpaper browser for Hyprland",
       "arch": "x86_64",
       "filename": "x86_64/dusky_papers-1.1.0-2-x86_64.pkg.tar.zst",
-      "sha256": "c0f8fd474bfd123939c3b3e74c3833eb26fd21fcbafa3ae0f38fa83b59432fdc",
-      "size_bytes": 4576755,
-      "installed_size": 12296753,
-      "build_date": 1794840902,
+      "sha256": "ff3f07903a30f092f99d167f9c8e1b79db16444da394c73a6d55e407ee430551",
+      "size_bytes": 4579115,
+      "installed_size": 12297057,
+      "build_date": 1795623830,
       "source_sha256": "45ea69a6d2388ba6bbd7184a5ee7972b6643f27228507607bf92c286e4dfa84b"
     },
     "dusky_snap": {
@@ -70,10 +70,10 @@
       "pkgdesc": "Dusky Snap Wayland screenshot and annotation tool",
       "arch": "x86_64",
       "filename": "x86_64/dusky_snap-0.4.2-7-x86_64.pkg.tar.zst",
-      "sha256": "13b16f7f339f541b610df79b6a6d4af45de877c628af7719cd3a73aef345b067",
-      "size_bytes": 5968481,
-      "installed_size": 15918658,
-      "build_date": 1795268773,
+      "sha256": "97e0e7c78af6472334420e46a17cab1b4b24fe38563fefa1932a8eef12bd2857",
+      "size_bytes": 5971017,
+      "installed_size": 15918650,
+      "build_date": 1795623882,
       "source_sha256": "34928e7800c530e48a791b39ce851676a7bb55b7b73cf42f125751bbacb13d67"
     },
     "dusky_tray": {
@@ -82,11 +82,11 @@
       "pkgdesc": "Dusky Tray control center for Hyprland",
       "arch": "x86_64",
       "filename": "x86_64/dusky_tray-1.0.0-8-x86_64.pkg.tar.zst",
-      "sha256": "2bb061df8b9531673114ec9d3767ea19ad2afb0e42cbb78c1d17e6478ddfcbcd",
-      "size_bytes": 5382994,
-      "installed_size": 13936393,
-      "build_date": 1795520705,
-      "source_sha256": "44eadebbc6ae8d1127cb67e017035ef5a4e50ee54b135c0434031cfff00ebca0"
+      "sha256": "ae79e5b6162ff155a013e218157095691a6c13e2f0c46ccb204812cb1d16a278",
+      "size_bytes": 5406317,
+      "installed_size": 13990697,
+      "build_date": 1795623939,
+      "source_sha256": "6bcde43ae04f73841544613b678f4247eed5fbd1be9bc4704388063b617cf161"
     }
   }
 }
