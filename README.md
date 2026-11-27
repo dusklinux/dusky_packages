@@ -6,6 +6,7 @@ Precompiled Arch Linux x86_64 packages for Dusky desktop components, hosted dire
 
 | Package | Description | Binary Path |
 | :--- | :--- | :--- |
+| `dusky_calendar` | Native Rust calendar for Hyprland | `/usr/bin/dusky_calendar` |
 | `dusky_casts` | Wayland podcast and local audio player | `/usr/bin/dusky_casts` |
 | `dusky_center` | Control center for Hyprland | `/usr/bin/dusky_center` |
 | `dusky_network` | Network meter for Waybar & Glance | `/usr/bin/dusky_network` |
@@ -27,7 +28,7 @@ Server = https://raw.githubusercontent.com/dusklinux/dusky_packages/main/$arch
 
 Then synchronize and install:
 ```bash
-sudo pacman -Sy dusky_casts dusky_center dusky_overview dusky_papers dusky_snap dusky_tray dusky_network
+sudo pacman -Sy dusky_calendar dusky_casts dusky_center dusky_overview dusky_papers dusky_snap dusky_tray dusky_network
 ```
 
 ### Option 2: Dusky Package Sync Tool (`dusky-pkg-sync`)
