@@ -2,8 +2,20 @@
   "schema_version": 1,
   "repo": "dusky",
   "arch": "x86_64",
-  "generated_at": "2026-11-27T08:39:47Z",
+  "generated_at": "2026-11-27T12:23:44Z",
   "packages": {
+    "dusky_bluetooth": {
+      "pkgname": "dusky_bluetooth",
+      "pkgver": "1.0.0-1",
+      "pkgdesc": "Dusky Bluetooth native Rust Bluetooth manager for Hyprland",
+      "arch": "x86_64",
+      "filename": "x86_64/dusky_bluetooth-1.0.0-1-x86_64.pkg.tar.zst",
+      "sha256": "5a245f1fb51e377c859a33c879275fafff51d9b320d86b6da09f58157499475f",
+      "size_bytes": 6058699,
+      "installed_size": 15962385,
+      "build_date": 1795782114,
+      "source_sha256": "f1ad15e10b5b4e7fbbae21acc660d0a83e2fac5b05aedda056a890072a8f6708"
+    },
     "dusky_calendar": {
       "pkgname": "dusky_calendar",
       "pkgver": "1.0.0-1",
