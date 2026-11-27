@@ -2,7 +2,7 @@
   "schema_version": 1,
   "repo": "dusky",
   "arch": "x86_64",
-  "generated_at": "2026-11-26T16:48:00Z",
+  "generated_at": "2026-11-27T08:39:47Z",
   "packages": {
     "dusky_calendar": {
       "pkgname": "dusky_calendar",
@@ -10,11 +10,11 @@
       "pkgdesc": "Dusky Calendar native Rust calendar for Hyprland",
       "arch": "x86_64",
       "filename": "x86_64/dusky_calendar-1.0.0-1-x86_64.pkg.tar.zst",
-      "sha256": "a8fb2809e35df0f8a4608bded23247de1e05224bed7e0dbcd7c0db770b37927a",
-      "size_bytes": 6348085,
-      "installed_size": 17822649,
-      "build_date": 1795711312,
-      "source_sha256": "b46c51e998f27b9d89ce423dd93157ba9fe912d07a5ed69d1dc9752d59416fc5"
+      "sha256": "65f7d9ad74050ad8480d4e21f4d409360cd0057a5aedd42ea0b5fefca55b0900",
+      "size_bytes": 6349003,
+      "installed_size": 17821097,
+      "build_date": 1795768734,
+      "source_sha256": "9bf7bf75a107046daf429ce87bfc438762f8b306055a1b21992997cc28e84c2a"
     },
     "dusky_casts": {
       "pkgname": "dusky_casts",
