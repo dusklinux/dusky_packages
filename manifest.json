@@ -2,7 +2,7 @@
   "schema_version": 1,
   "repo": "dusky",
   "arch": "x86_64",
-  "generated_at": "2026-11-27T16:20:27Z",
+  "generated_at": "2026-11-27T17:13:52Z",
   "packages": {
     "dusky_bluetooth": {
       "pkgname": "dusky_bluetooth",
@@ -70,11 +70,11 @@
       "pkgdesc": "Dusky Clock native Rust clocks, alarms, stopwatch, and timers for Hyprland",
       "arch": "x86_64",
       "filename": "x86_64/dusky_clock-1.0.0-1-x86_64.pkg.tar.zst",
-      "sha256": "4a8dab4efca616dca24dee20a890192fe59934feecfd31ef9abde443d422ab8f",
-      "size_bytes": 5433056,
-      "installed_size": 15622433,
-      "build_date": 1795796347,
-      "source_sha256": "23ffc89b7ac9fc595ba797f1c16cb4ac47a61c57636fc3396b8de624c835b809"
+      "sha256": "98f9d874d2e00335e8aff8a84243156ff16900100e9e97717d6b92359086f9b4",
+      "size_bytes": 5510189,
+      "installed_size": 15815345,
+      "build_date": 1795799579,
+      "source_sha256": "7bc6cdb4505fcc6d17994c51150232829f5bdb5e2c0b5d72a73efd23cf964644"
     },
     "dusky_network": {
       "pkgname": "dusky_network",
