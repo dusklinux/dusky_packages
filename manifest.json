@@ -2,7 +2,7 @@
   "schema_version": 1,
   "repo": "dusky",
   "arch": "x86_64",
-  "generated_at": "2026-11-27T12:32:55Z",
+  "generated_at": "2026-11-27T14:25:09Z",
   "packages": {
     "dusky_bluetooth": {
       "pkgname": "dusky_bluetooth",
@@ -15,6 +15,18 @@
       "installed_size": 15962385,
       "build_date": 1795782689,
       "source_sha256": "de435993ab9591edd09dbc6a59367ccb07ed75ce484a95caba891fe20a1ab2d2"
+    },
+    "dusky_calculator": {
+      "pkgname": "dusky_calculator",
+      "pkgver": "1.0.0-1",
+      "pkgdesc": "Dusky Calculator native Rust calculator for Hyprland",
+      "arch": "x86_64",
+      "filename": "x86_64/dusky_calculator-1.0.0-1-x86_64.pkg.tar.zst",
+      "sha256": "dc3feec0f1894032278ee0ed39c663b07efc27666e540a4c7e9bff42a6ebf750",
+      "size_bytes": 5170152,
+      "installed_size": 13394577,
+      "build_date": 1795789298,
+      "source_sha256": "21a463ed2f57ee53c6e635b58360477284447dcc437fa45add5fe9ce52a43596"
     },
     "dusky_calendar": {
       "pkgname": "dusky_calendar",
@@ -106,11 +118,11 @@
       "pkgdesc": "Dusky Tray control center for Hyprland",
       "arch": "x86_64",
       "filename": "x86_64/dusky_tray-1.0.0-8-x86_64.pkg.tar.zst",
-      "sha256": "ae79e5b6162ff155a013e218157095691a6c13e2f0c46ccb204812cb1d16a278",
-      "size_bytes": 5406317,
+      "sha256": "14cd9238473d61fee09893a37b8a8dc939d24692ae54f9422163ae0fedf2974d",
+      "size_bytes": 4273850,
       "installed_size": 13990697,
       "build_date": 1795623939,
-      "source_sha256": "6bcde43ae04f73841544613b678f4247eed5fbd1be9bc4704388063b617cf161"
+      "source_sha256": "f9dfbff119fab66c57faf353319a964eca7bce9408ac3a346f0759a4b2e82736"
     }
   }
 }
